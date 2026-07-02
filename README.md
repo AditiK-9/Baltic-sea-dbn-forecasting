@@ -17,8 +17,8 @@ Figure 2 displays the graph produced by the code in Figure 1. This shows the shi
 [Figure 3]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/c4df2b1302182f9f603830b0d50adcce984d7c8f/Figure%203.jpg<br>
 Figure 3 contains the R code written to create a Dynamic Bayesian Network. Additional comments addressing what was written and why, has been added in the screenshot.
 
-[Figure 4]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/c4df2b1302182f9f603830b0d50adcce984d7c8f/Figure%204.jpg
+[Figure 4]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/c4df2b1302182f9f603830b0d50adcce984d7c8f/Figure%204.jpg<br>
 Figure 4: A prescribed DBN model of the Western Baltic created using the code from Figure 3. 
 
-[Figure 5]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/c4df2b1302182f9f603830b0d50adcce984d7c8f/Figure%205.jpg
+[Figure 5]https://github.com/AditiK-9/Baltic-sea-dbn-forecasting/blob/c4df2b1302182f9f603830b0d50adcce984d7c8f/Figure%205.jpg<br>
 Figure 5 shows the code written to predict Herring recruits in the current time slice (_t1) from the prescribed DBN model above. It also produces a line graph showing the actual vs predicted values and the evaluation metric, Root Mean Squared Error (RMSE). 
